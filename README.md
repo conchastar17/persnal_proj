@@ -1,2 +1,2 @@
-# persnal_proj
-do something
+# Welcome to my first personal project :3
+
